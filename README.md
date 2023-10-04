@@ -3,7 +3,7 @@
 
 - 👨‍💻 Portfolio [https://next-web-page-maxions100.vercel.app/](https://next-web-page-maxions100.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Portfolio:</h3>
 <p align="left">
 </p>
 
