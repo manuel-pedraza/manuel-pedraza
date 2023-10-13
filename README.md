@@ -1,33 +1,19 @@
-<div
-style="
-    height: 120px;
-    width: 100%;
-    background-image: url('https://next-web-page-maxions100.vercel.app/bg.gif');
-    background-size: cover; 
-    "
->
-</div>
-<p style="font-weight: bold; font-size: 28px; text-align: center; margin: 0">
-    Manuel A. Pedraza S.
+<!-- Image Banner -->
+<img src="https://next-web-page-maxions100.vercel.app/bg4rows.gif" alt="bg_binary" height="120px" width="100%"/> 
+
+<!-- Name & Profession -->
+
+<p align="center" style="font-size: 28px; margin: 0">
+    <strong>Manuel A. Pedraza S.</strong>
 </p>
-<p style="
-    font-weight: bold; 
-    font-size: 20px; 
-    text-align: center; 
-    margin: -5px 0px 5px 0px;
-    "
->
-    Software Engineer
+<p align="center" style="font-size: 20px; margin: -5px 0px 5px 0px">
+    <strong>Software Engineer</strong>
 </p>
 <hr>
 <br />
 
 <p>Description</p>
 <img src="https://next-web-page-maxions100.vercel.app/programming.svg" height="200px" width="40%"  alt="programmer" align="right"/>
-
-
-
-
 
 
 
