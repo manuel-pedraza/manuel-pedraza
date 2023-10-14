@@ -3,19 +3,19 @@
 
 <!-- Name & Profession -->
 
-<p align="center" style="font-size: 28px; margin: 0">
+<p align="center" style="font-size: 28px; margin: 0" size="3">
     <strong>Manuel A. Pedraza S.</strong>
 </p>
-<p align="center" style="font-size: 20px; margin: -5px 0px 5px 0px">
-    <strong>Software Engineer</strong>
+<p align="center" style="font-size: 20px; margin: -5px 0px 5px 0px" size="3">
+    <strong>Software Engineer<strong>
 </p>
 <hr>
-<br />
 
-<p>Description</p>
+<p align="center">| Full Stack Developper | Front-end | Back-end | Desktop App Developper |</p>
+
 <img src="https://next-web-page-maxions100.vercel.app/programming.svg" height="200px" width="40%"  alt="programmer" align="right"/>
 
-
+<h3>Informations:</h3>
 
 - 🔭 I’m currently working on [Pong Game](https://github.com/maxions100/PingPongGame)
 
@@ -37,6 +37,21 @@
     
     
 <h3 align="left">Connect with me:</h3>
+
+- 📧 <pedraza.sanchez.manuel.alejandro@gmail.com>
+- Contact me through my [Portfolio](https://next-web-page-maxions100.vercel.app/contact)
+
+<h3 align="left">Social Media:</h3>
+<p align="left"> 
+    <a href="https://www.youtube.com/@Manuel_A_Pedraza_S" target="_blank" rel="noreferrer"> 
+        <img src="https://i.pinimg.com/736x/3a/36/20/3a36206f35352b4230d5fc9f17fcea92.jpg" alt="youtube" width="50" height="40"/> 
+    </a> 
+    <a href="https://www.linkedin.com/in/manuel-a-pedraza-s/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" alt="linkedin" width="50" height="40"/> 
+    </a>
+</p>
+
+
 <p align="left">
 </p>
 
