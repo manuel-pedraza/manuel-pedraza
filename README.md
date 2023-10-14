@@ -9,9 +9,9 @@
 <p align="center" style="font-size: 20px; margin: -5px 0px 5px 0px" size="3">
     <strong>Software Engineer<strong>
 </p>
+<p align="center">| Full Stack Developper | Front-end | Back-end | Desktop App Developper |</p>
 <hr>
 
-<p align="center">| Full Stack Developper | Front-end | Back-end | Desktop App Developper |</p>
 
 <img src="https://next-web-page-maxions100.vercel.app/programming.svg" height="200px" width="40%"  alt="programmer" align="right"/>
 
