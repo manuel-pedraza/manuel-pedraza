@@ -9,7 +9,7 @@
 <p align="center" style="font-size: 20px; margin: -5px 0px 5px 0px" size="3">
     <strong>Software Engineer<strong>
 </p>
-<p align="center">| Full Stack Developper | Front-end | Back-end | Desktop App Developper |</p>
+<p align="center">| Full Stack Developer | Front-end | Back-end | Desktop App Developer |</p>
 <hr>
 
 
