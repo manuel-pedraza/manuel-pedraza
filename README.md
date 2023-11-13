@@ -1,5 +1,5 @@
 <!-- Image Banner -->
-<img src="https://next-web-page-maxions100.vercel.app/bg4rows.gif" alt="bg_binary" height="120px" width="100%"/> 
+<img src="https://manuel-pedraza.dev/bg4rows.gif" alt="bg_binary" height="120px" width="100%"/> 
 
 <!-- Name & Profession -->
 
@@ -7,31 +7,31 @@
     <strong>Manuel A. Pedraza S.</strong>
 </p>
 <p align="center" style="font-size: 20px; margin: -5px 0px 5px 0px" size="3">
-    <strong>Software Engineer<strong>
+    <strong>Software Developer<strong>
 </p>
 <p align="center">| Full Stack Developer | Front-end | Back-end | Desktop App Developer |</p>
 <hr>
 
 
-<img src="https://next-web-page-maxions100.vercel.app/programming.svg" height="200px" width="40%"  alt="programmer" align="right"/>
+<img src="https://manuel-pedraza.dev/programming.svg" height="200px" width="40%"  alt="programmer" align="right"/>
 
 <h3>Informations:</h3>
 
 - 🔭 I’m currently working on [Pong Game](https://github.com/maxions100/PingPongGame)
 
-- 👨‍💻 Take a look at my [Portfolio](https://next-web-page-maxions100.vercel.app/)
+- 👨‍💻 Take a look at my [Portfolio](https://manuel-pedraza.dev/)
 
 <h3>Languages:</h3>
 <p style="position: relative; display: flex; align-items: center;">&emsp;
-    <img src="https://next-web-page-maxions100.vercel.app/_next/static/media/uk_flag.dc9a9510.png" alt="uk_flag" height="18px" width="18px" style=""/> 
+    <img src="https://manuel-pedraza.dev/_next/static/media/uk_flag.dc9a9510.png" alt="uk_flag" height="18px" width="18px" style=""/> 
     &nbsp;English
 </p>
 <p style="position: relative; display: flex; align-items: center;">&emsp;
-    <img src="https://next-web-page-maxions100.vercel.app/_next/static/media/france_flag.e2bb1285.png" alt="france_flag" height="18px" width="18px" style=""/>
+    <img src="https://manuel-pedraza.dev/_next/static/media/france_flag.e2bb1285.png" alt="france_flag" height="18px" width="18px" style=""/>
     &nbsp;French
 </p>
 <p style="position: relative; display: flex; align-items: center;">&emsp;
-    <img src="https://next-web-page-maxions100.vercel.app/_next/static/media/spain_flag.37524fe2.png" alt="spain_flag" height="18px" width="18px" style=""/>
+    <img src="https://manuel-pedraza.dev/_next/static/media/spain_flag.37524fe2.png" alt="spain_flag" height="18px" width="18px" style=""/>
     &nbsp;Spanish
 </p>
     
@@ -39,7 +39,7 @@
 <h3 align="left">Connect with me:</h3>
 
 - 📧 <pedraza.sanchez.manuel.alejandro@gmail.com>
-- Contact me through my [Portfolio](https://next-web-page-maxions100.vercel.app/contact)
+- Contact me through my [Portfolio](https://manuel-pedraza.dev/contact)
 
 <h3 align="left">Social Media:</h3>
 <p align="left"> 
@@ -70,7 +70,7 @@
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
         </a>
          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-         <img src="https://next-web-page-maxions100.vercel.app/_next/static/media/C++.ee353bc0.png" alt="cplusplus" width="40" height="40"/> 
+         <img src="https://manuel-pedraza.dev/_next/static/media/C++.ee353bc0.png" alt="cplusplus" width="40" height="40"/> 
         </a> 
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
