@@ -1,5 +1,5 @@
 <!-- Image Banner -->
-<img src="https://manuel-pedraza.dev/bg4rows.gif" alt="bg_binary" height="120px" width="100%"/> 
+<img src="https://manuel-pedraza.dev/gif/bg4rows.gif" alt="bg_binary" height="120px" width="100%"/> 
 
 <!-- Name & Profession -->
 
@@ -13,7 +13,7 @@
 <hr>
 
 
-<img src="https://manuel-pedraza.dev/programming.svg" height="200px" width="40%"  alt="programmer" align="right"/>
+<img src="https://manuel-pedraza.dev/svg/programming.svg" height="200px" width="40%"  alt="programmer" align="right"/>
 
 <h3>Informations:</h3>
 
