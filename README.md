@@ -38,7 +38,7 @@
     
 <h3 align="left">Connect with me:</h3>
 
-- 📧 <pedraza.sanchez.manuel.alejandro@gmail.com>
+- 📧 <maxpedraza17@gmail.com>
 - Contact me through my [Portfolio](https://manuel-pedraza.dev/contact)
 
 <h3 align="left">Social Media:</h3>
